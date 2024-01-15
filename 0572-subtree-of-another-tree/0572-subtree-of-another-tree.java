@@ -33,14 +33,4 @@ class Solution {
         return check(node.left, sub.left) && check(node.right, sub.right);
     }
 
-    private TreeNode find(TreeNode node, TreeNode subRoot){
-        if(node == null) return null;
-        if(node.val == subRoot.val) return node;
-
-        TreeNode left = find(node.left, subRoot);
-        if (left != null) return left;
-
-        TreeNode right = find(node.right, subRoot);
-        return right;
-    }
 }
