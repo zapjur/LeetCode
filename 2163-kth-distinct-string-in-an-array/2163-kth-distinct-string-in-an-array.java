@@ -1,22 +1,27 @@
 class Solution {
     public String kthDistinct(String[] arr, int k) {
-        List<String> diststr = new ArrayList<>();
-        List<String> helper = new ArrayList<>();
+        
+    Map<String, Boolean> map = new HashMap<>();
+    int count = 0;
 
-        for(String str : arr) {
-            if(helper.contains(str)) {
-                continue;
-            }
-            if(diststr.contains(str)) {
-                diststr.remove(str);
-                helper.add(str);
-                continue;
-            }
-            diststr.add(str);
+    for(int i = 0; i < arr.length; i++) {
+        if(map.containsKey(arr[i])) {
+            map.put(arr[i], false);
         }
+        else {
+            map.put(arr[i], true);
+        }
+    }
 
-        System.out.println(diststr);
+    for(String str : arr) {
+        if(map.get(str) == true) {
+            count++;
+            if(count == k) {
+                return str;
+            }
+        }
+    }
 
-        return diststr.size() >= k ? diststr.get(k-1) : "";
+    return "";
     }
 }
