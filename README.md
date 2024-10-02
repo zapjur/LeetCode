@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/zapjur/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/zapjur/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
