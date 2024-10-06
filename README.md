@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/zapjur/LeetCode/tree/master/0739-daily-temperatures) |
 | [1256-rank-transform-of-an-array](https://github.com/zapjur/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/zapjur/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [1923-sentence-similarity-iii](https://github.com/zapjur/LeetCode/tree/master/1923-sentence-similarity-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/zapjur/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/zapjur/LeetCode/tree/master/0412-fizz-buzz) |
 | [0567-permutation-in-string](https://github.com/zapjur/LeetCode/tree/master/0567-permutation-in-string) |
+| [1923-sentence-similarity-iii](https://github.com/zapjur/LeetCode/tree/master/1923-sentence-similarity-iii) |
 ## Queue
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/zapjur/LeetCode/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/zapjur/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/zapjur/LeetCode/tree/master/0567-permutation-in-string) |
+| [1923-sentence-similarity-iii](https://github.com/zapjur/LeetCode/tree/master/1923-sentence-similarity-iii) |
 ## Recursion
 |  |
 | ------- |
