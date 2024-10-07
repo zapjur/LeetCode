@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/zapjur/LeetCode/tree/master/0412-fizz-buzz) |
 | [0567-permutation-in-string](https://github.com/zapjur/LeetCode/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/zapjur/LeetCode/tree/master/1923-sentence-similarity-iii) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/zapjur/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Queue
 |  |
 | ------- |
@@ -52,11 +53,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/zapjur/LeetCode/tree/master/0412-fizz-buzz) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/zapjur/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Stack
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/zapjur/LeetCode/tree/master/0143-reorder-list) |
 | [0739-daily-temperatures](https://github.com/zapjur/LeetCode/tree/master/0739-daily-temperatures) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/zapjur/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
