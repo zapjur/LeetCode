@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/zapjur/LeetCode/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/zapjur/LeetCode/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/zapjur/LeetCode/tree/master/0412-fizz-buzz) |
 | [1014-k-closest-points-to-origin](https://github.com/zapjur/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Simulation
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/zapjur/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/zapjur/LeetCode/tree/master/0070-climbing-stairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -237,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/zapjur/LeetCode/tree/master/0078-subsets) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/zapjur/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
