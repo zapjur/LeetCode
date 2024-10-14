@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/zapjur/LeetCode/tree/master/0078-subsets) |
 | [0215-kth-largest-element-in-an-array](https://github.com/zapjur/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/zapjur/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/zapjur/LeetCode/tree/master/0414-third-maximum-number) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/zapjur/LeetCode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/zapjur/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
@@ -231,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/zapjur/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/zapjur/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/zapjur/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
