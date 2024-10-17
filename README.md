@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/zapjur/LeetCode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/zapjur/LeetCode/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/zapjur/LeetCode/tree/master/0412-fizz-buzz) |
+| [0670-maximum-swap](https://github.com/zapjur/LeetCode/tree/master/0670-maximum-swap) |
 | [1014-k-closest-points-to-origin](https://github.com/zapjur/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Simulation
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/zapjur/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/zapjur/LeetCode/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/zapjur/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/zapjur/LeetCode/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/zapjur/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
