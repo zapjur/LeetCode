@@ -12,7 +12,7 @@ func findHeightOfNodes(root *TreeNode, l int, height, levelMaxHeight, levelSecon
         return 0
     }
 
-    level[root.Val] = l //level Population / preprocessing
+    level[root.Val] = l
     height[root.Val] = max(findHeightOfNodes(root.Left, l+1, height, levelMaxHeight,              levelSecondMaxHeight, level), findHeightOfNodes(root.Right, l+1, height, levelMaxHeight, levelSecondMaxHeight, level)) + 1
 
 
