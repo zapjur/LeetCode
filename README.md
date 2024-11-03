@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/zapjur/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/zapjur/LeetCode/tree/master/0412-fizz-buzz) |
 | [0567-permutation-in-string](https://github.com/zapjur/LeetCode/tree/master/0567-permutation-in-string) |
+| [0812-rotate-string](https://github.com/zapjur/LeetCode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/zapjur/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/zapjur/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/zapjur/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/zapjur/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0812-rotate-string](https://github.com/zapjur/LeetCode/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
