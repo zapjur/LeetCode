@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/zapjur/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/zapjur/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/zapjur/LeetCode/tree/master/0414-third-maximum-number) |
+| [0494-target-sum](https://github.com/zapjur/LeetCode/tree/master/0494-target-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/zapjur/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0739-daily-temperatures](https://github.com/zapjur/LeetCode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/zapjur/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/zapjur/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/zapjur/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/zapjur/LeetCode/tree/master/0198-house-robber) |
+| [0494-target-sum](https://github.com/zapjur/LeetCode/tree/master/0494-target-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/zapjur/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/zapjur/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/zapjur/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/zapjur/LeetCode/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/zapjur/LeetCode/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/zapjur/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/zapjur/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Memoization
