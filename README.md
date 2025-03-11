@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/zapjur/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/zapjur/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/zapjur/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/zapjur/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/zapjur/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/zapjur/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/zapjur/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/zapjur/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/zapjur/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/zapjur/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/zapjur/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/zapjur/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/zapjur/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/zapjur/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
