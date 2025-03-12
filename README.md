@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/zapjur/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/zapjur/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3451-string-compression-iii](https://github.com/zapjur/LeetCode/tree/master/3451-string-compression-iii) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/zapjur/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/zapjur/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Queue
 |  |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/zapjur/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/zapjur/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/zapjur/LeetCode/tree/master/3394-minimum-array-end) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/zapjur/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Greedy
 |  |
 | ------- |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/zapjur/LeetCode/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/zapjur/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/zapjur/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/zapjur/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Memoization
 |  |
 | ------- |
