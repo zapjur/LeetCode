@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/zapjur/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/zapjur/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/zapjur/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/zapjur/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/zapjur/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/zapjur/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/zapjur/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/zapjur/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/zapjur/LeetCode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/zapjur/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/zapjur/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/zapjur/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/zapjur/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/zapjur/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/zapjur/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/zapjur/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/zapjur/LeetCode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/zapjur/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3195-separate-black-and-white-balls](https://github.com/zapjur/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Dynamic Programming
 |  |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/zapjur/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/zapjur/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/zapjur/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/zapjur/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Divide and Conquer
 |  |
 | ------- |
