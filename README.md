@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/zapjur/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/zapjur/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/zapjur/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1572-subrectangle-queries](https://github.com/zapjur/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/zapjur/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/zapjur/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1755-defuse-the-bomb](https://github.com/zapjur/LeetCode/tree/master/1755-defuse-the-bomb) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/zapjur/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1572-subrectangle-queries](https://github.com/zapjur/LeetCode/tree/master/1572-subrectangle-queries) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/zapjur/LeetCode/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/zapjur/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/zapjur/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1572-subrectangle-queries](https://github.com/zapjur/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1972-rotating-the-box](https://github.com/zapjur/LeetCode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/zapjur/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/zapjur/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
