@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2580-circular-sentence](https://github.com/zapjur/LeetCode/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/zapjur/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/zapjur/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/zapjur/LeetCode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/zapjur/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/zapjur/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/zapjur/LeetCode/tree/master/3195-separate-black-and-white-balls) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/zapjur/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/zapjur/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/zapjur/LeetCode/tree/master/2716-prime-subtraction-operation) |
+| [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/zapjur/LeetCode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/zapjur/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Dynamic Programming
 |  |
