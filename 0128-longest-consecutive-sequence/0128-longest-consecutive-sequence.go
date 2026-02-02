@@ -6,32 +6,20 @@ func longestConsecutive(nums []int) int {
 
 	longest := 0
 
-	for _, n := range nums {
-		if _, ok := set[n]; !ok {
+	for n := range set {
+		if _, ok := set[n-1]; ok {
 			continue
 		}
 
-		delete(set, n)
 		length := 1
-
-		for x := n - 1; ; x-- {
-			if _, ok := set[x]; !ok {
+		for m := n + 1; ; m++ {
+			if _, ok := set[m]; !ok {
+				if length > longest {
+					longest = length
+				}
 				break
 			}
-			delete(set, x)
 			length++
-		}
-
-		for x := n + 1; ; x++ {
-			if _, ok := set[x]; !ok {
-				break
-			}
-			delete(set, x)
-			length++
-		}
-
-		if length > longest {
-			longest = length
 		}
 	}
 
