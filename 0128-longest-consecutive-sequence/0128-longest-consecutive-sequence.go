@@ -1,28 +1,31 @@
 func longestConsecutive(nums []int) int {
-    if len(nums) == 0 {
-        return 0
+    set := make(map[int]struct{})
+    for _, n := range nums {
+        set[n] = struct{}{}
     }
 
-    set := make(map[int]bool)
-    for _, num := range nums {
-        set[num] = true
-    }
-    max := 1
-    var curr int
-    var length int
-    for num := range set {
-        if !set[num-1] {
-            curr = num
-            length = 1 
-        }
+    longest := 0
 
-        for set[curr+1] {
-            curr++
-            length++
-        }
-        if length > max {
-            max = length
+    for n := range set {
+        if _, ok := set[n-1]; !ok {
+            len := 1
+            for {
+                if _, ok = set[n+len]; ok {
+                    len++
+                    continue
+                }
+                longest = max(len, longest)
+                break
+            }
         }
     }
-    return max
+
+    return longest
+}
+
+func max(a, b int) int {
+    if a > b {
+        return a
+    }
+    return b
 }
